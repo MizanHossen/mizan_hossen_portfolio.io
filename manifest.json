@@ -1,11 +1,11 @@
 {
-    "name": "mizan_portfolio",
-    "short_name": "mizan_portfolio",
+    "name": "Mizan Portfolio",
+    "short_name": "Mizan Portfolio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Hi, I'm Mobile Application Developer [Flutter]. I provide professional Applications. If you are looking developer to built application, feel free to let me know. I would like to give my best for your required application.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
